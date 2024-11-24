@@ -4545,9 +4545,37 @@ PrefabInstance:
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
+      propertyPath: availableUnits.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
+      propertyPath: availableUnits.Array.data[1].food
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
+      propertyPath: availableUnits.Array.data[1].costGold
+      value: 350
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
+      propertyPath: availableUnits.Array.data[1].unitName
+      value: Knight
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
       propertyPath: availableUnits.Array.data[0].unitPrefab
       value: 
       objectReference: {fileID: 6792327054025522797, guid: 64db8d48fab1ceb43a8ee5d52643029a, type: 3}
+    - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
+      propertyPath: availableUnits.Array.data[1].costLumber
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
+      propertyPath: availableUnits.Array.data[1].unitPrefab
+      value: 
+      objectReference: {fileID: 6122742024792905137, guid: 1e9c0ccdcb9761a4b9ca40d23f10c1f0, type: 3}
+    - target: {fileID: 7475098272096174754, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
+      propertyPath: availableUnits.Array.data[1].productionTime
+      value: 21
+      objectReference: {fileID: 0}
     - target: {fileID: 8103994070405892305, guid: eec5cc5d788c6704398ec82e1855b2a8, type: 3}
       propertyPath: m_Layer
       value: 8

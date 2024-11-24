@@ -36,10 +36,6 @@ public class UnitProductionBuilding : MonoBehaviour
         {
             ProduceUnit("Peon");
         }
-        else if (Input.GetKeyDown(KeyCode.G))
-        {
-            ProduceUnit("Grunt");
-        }
     }
 
     public void ProduceUnit(string unitName)
